@@ -76,7 +76,40 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+# Placement Data
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/3c0cd4cc-3f4f-44ea-b777-60cb31b490a4)
+
+# Salary Data
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/e930e9b4-b5e2-4e57-a38b-05107d92cd88)
+
+# Checking the null() function
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/a0955fef-d69a-4926-98d0-e6c9a47c2fbb)
+
+# Data Duplicate 
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/7bf51b24-0782-4c98-afba-5cf91227a732)
+
+# Print Data
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/fd8c8015-b304-443c-b045-f81817407bc5)
+
+# Data-Status
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/013624fd-a58d-4235-9f98-289788fa9173)
+
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/a9b4c894-4feb-4423-aa83-dba95b47d44d)
+
+# Y_prediction Array
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/450eefbe-457a-4843-9511-f3bafe38946c)
+
+# Accuracy value
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/1f3b35cc-505f-4865-b9bc-cbdb6280e0be)
+
+# Confusion Array
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/6e1cdaf7-5851-4c6a-8328-127f460698dc)
+
+# Classification Report
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/1d5a71ab-05bc-42b4-a1f9-b82f01be910f)
+
+# Prediction of LR
+![image](https://github.com/SamyukthaSreenivasan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475703/500a9e75-e1a5-4d97-9c92-5e8f4dbbb1d4)
 
 
 ## Result:
